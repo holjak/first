@@ -6,7 +6,7 @@ This is holjak's learning sequence
 > 그리고 이걸 올리면 될지 안될지에 대해서 알 쑤있겠찌 <br>
 > 그리고 난 밤샜찌 <br>
 > 이거 뭔가 좀 복잡하긴 한데 잘 쓰기 시작하면 좋을 것 같다 <br>
-
+> 히스토리가 남는다는 거에서 좀 신기하다 <br>
 <pre><code> 
 #code cash kkola
 </pre></code> 
